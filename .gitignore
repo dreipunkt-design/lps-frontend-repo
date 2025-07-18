@@ -1,0 +1,14 @@
+# Build-Ordner
+bin/
+obj/
+
+# VS/VS Code
+.vscode/
+*.user
+*.suo
+
+# .NET-spezifisch
+*.dll
+*.exe
+*.pdb
+*.cache
